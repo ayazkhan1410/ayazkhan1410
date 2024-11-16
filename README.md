@@ -37,7 +37,7 @@ In this role, I:
 
 ---
 
-### **Backend Development Intern - Enigmatic**  
+### **Backend Development Intern - Enigmatix**  
 - Worked on Django projects alongside a talented team, turning ideas into functional applications.  
 - Learned the nuances of building robust and user-friendly web applications under the guidance of experienced mentors.  
 
