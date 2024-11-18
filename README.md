@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer with **1.5 year
 
 ## 💼 Work Experience
 
-### **Backend Developer - Glims College, Bahawalpur**  
+### **Backend Developer - Devticks**  
 In this role, I:  
 - Created EDI (Electronic Data Interchange) files and developed schema handler files to facilitate seamless data exchange.  
 - Reviewed and optimized pre-written code to enhance performance, maintainability, and efficiency.  
