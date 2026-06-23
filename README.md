@@ -1,89 +1,73 @@
-# 👋 Hello, I'm Ayaz Khan!  
-Welcome to my GitHub profile! I'm a passionate backend developer with **1.5 years of experience**, specializing in creating scalable and robust applications. I have a knack for solving problems and turning ideas into reality through code.
+# 👋 Hi, I'm Ayaz Khan — Backend Developer
+
+Backend-focused software engineer with **2+ years of experience** building production-grade systems in Python and Django. I specialize in scalable APIs, real-time data pipelines, microservices, and EDI integrations — shipping code that works reliably at scale.
 
 ---
 
-## 🔧 Technologies & Tools
+## 🛠️ Tech Stack
 
-### Backend Development  
-- Django  
-- Django Rest Framework  
-- Celery  
-- Redis  
+**Languages:** Python, Java, SQL, HTML5, CSS3
 
-### Frontend Development  
-- HTML  
-- CSS  
+**Frameworks & Libraries:** Django, Django REST Framework, Flask, Celery, Jinja
 
-### APIs & Integrations  
-- Third-party APIs  
-- Multireisen API  
+**Databases:** PostgreSQL, MySQL, Redis
+
+**Cloud & DevOps:** AWS (SQS, EC2, S3), Docker, GitHub Actions (CI/CD)
+
+**Messaging & Streaming:** Apache Kafka, AWS SQS, Celery Beat
+
+**Specialized:** RESTful APIs, EDI (ANSI X12), JWT Authentication, Microservices Architecture, SFTP/AS2 Integration
+
+**Tools:** Postman, Swagger/OpenAPI, PyCharm, VS Code, Jira, Linux (Bash)
 
 ---
 
 ## 💼 Work Experience
 
-### **Backend Developer - Devticks**  
-In this role, I:  
-- Created EDI (Electronic Data Interchange) files and developed schema handler files to facilitate seamless data exchange.  
-- Reviewed and optimized pre-written code to enhance performance, maintainability, and efficiency.  
+### 🔹 Backend Developer — BetaCodes *(March 2026 – Present)*
+- Building backend systems using **Kafka** to stream real-time data and integrate AI services
+- Processing and storing results from AI pipelines into databases at scale
+- Contributing to microservices architecture with **Celery + Beat** for reliable background job scheduling
+
+### 🔹 Backend Developer — Devticks *(October 2024 – February 2026)*
+- Built and maintained **Python/Django-based EDI systems** handling orders and documents for major retail partners: Walmart, Home Depot, Target, and others
+- Automated end-to-end order flows by parsing **ANSI X12 files** into Django models and generating 850/856/810 responses (acknowledgments, shipment notices, invoices)
+- Improved performance and reliability via query optimization, **AWS SQS** background processing, and secure SFTP/AS2 integration
+
+### 🔹 Junior Python Developer — Ticketistan *(July 2024 – October 2024)*
+- Developed RESTful APIs for core features: **hotels, flights, and user authentication**
+- Collaborated with senior developers and frontend teams for smooth feature delivery
+- Strengthened practical Python and Django development skills in a production environment
 
 ---
 
-### **Junior Python Developer - Ticketistan**  
-- Developed APIs for **hotels, flights, and authentication** for Ticketistan.  
-- Collaborated with senior developers and frontend teams to deliver seamless user experiences.  
-- Contributed to a positive team environment and honed my Python development skills.
+## 🚀 Projects
+
+### 🛒 E-Tech Shop *(Final Year Project)*
+Django-based e-commerce platform with secure authentication, product management, and real-time order tracking. Built with a team, including QA and responsive design across devices.
+
+### 🎓 Smart Learning Management System
+Full-stack platform for managing students, fees, attendance, and staff — featuring real-time analytics, automated parent notifications, and financial tracking.
+
+### 📧 Django Communication & Tracking Engine
+Backend suite for bulk email sending with **custom open-rate and link-click tracking**. Includes CSV import/export pipelines for efficient data management workflows.
 
 ---
 
-### **Backend Development Intern - Enigmatix**  
-- Worked on Django projects alongside a talented team, turning ideas into functional applications.  
-- Learned the nuances of building robust and user-friendly web applications under the guidance of experienced mentors.  
+## 📜 Certifications
+
+- **Learn to Code in Python 3: Beginner to Advanced** — Udemy
+- **Python for OOP: The A-to-Z OOP Python Programming Course** — Udemy
 
 ---
 
-## 🚀 Projects & Contributions
+## 🌐 Connect
 
-### **E-Tech Shop**  
-An e-commerce website built using Django, providing a seamless shopping experience.  
-- Features product browsing, adding to cart, and secure checkout functionality.  
-
----
-
-### **Automation with Django**  
-A tool for automating everyday tasks:  
-- Bulk email sending and tracking.  
-- Importing CSV files to the database and exporting data as CSV.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-studywithayaz-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/studywithayaz/)
+[![GitHub](https://img.shields.io/badge/GitHub-ayazkhan1410-181717?style=flat&logo=github)](https://github.com/ayazkhan1410)
+[![YouTube](https://img.shields.io/badge/YouTube-Study%20with%20Ayaz-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@studywithayaz)
+[![Email](https://img.shields.io/badge/Email-programmingwithayaz@gmail.com-EA4335?style=flat&logo=gmail)](mailto:programmingwithayaz@gmail.com)
 
 ---
 
-### **Tourism Recommendation System**  
-A Django-based application allowing users to search for popular destinations and travel places.  
-- Features include dynamic image loading, filters by place, city, and price range, and pagination for browsing destinations.  
-
----
-
-### **Quiz Application**  
-An interactive web application for creating, managing, and participating in quizzes.  
-- Highlights Django's capability to build feature-rich educational platforms.  
-
----
-
-## 🎥 YouTube Channel
-
-📺 **[Study with Ayaz](https://www.youtube.com/@studywithayaz)**  
-With over **500+ subscribers**, I create educational content focusing on Python, Java, and more. Join me as I simplify complex concepts and help others learn.
-
----
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/studywithayaz/)  
-- [Facebook](https://www.facebook.com/StudywithAyaz/)  
-- [YouTube](https://www.youtube.com/@studywithayaz)  
-- [Instagram](https://www.instagram.com/study_withayaz/)  
-
----
-
-Thank you for visiting my GitHub profile! Feel free to connect for collaborations, discussions, or a tech chat. 😊
+*Open to backend roles and interesting collaborations. Feel free to reach out!*
