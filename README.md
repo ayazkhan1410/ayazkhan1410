@@ -15,8 +15,9 @@ I care about code that's simple, fast, and easy for the next person to pick up.
 ### What I'm doing now
 
 **Backend Developer @ BetaCodes** · Mar 2026 – Present
-- Streaming real-time data to AI services over **Kafka**, then processing and storing the results
-- Running 5–10 background and scheduled jobs with **Celery + Celery Beat** across microservices
+- Building backend features for **Trendwise**, a social and web media monitoring platform: team-based multi-tenancy, role-based access control, Google and email-OTP sign-in, and **Stripe**-based plan limits and billing
+- Working on the crawl pipeline for 6 platforms (YouTube, X, web, Facebook, Instagram, TikTok) over **Kafka**, and integrating with AI services for search, chat, OCR and speech-to-text
+- Building and maintaining 10+ scheduled **Celery Beat** jobs for plan-based recrawls, usage tracking and stale-job cleanup
 
 ### Where I've been
 
