@@ -29,6 +29,7 @@ I care about code that's simple, fast, and easy for the next person to pick up.
 
 **Junior Python Developer @ Ticketistan** · Jul 2024 – Oct 2024
 - Built REST APIs for hotel booking, flight search and user authentication
+- Worked with senior developers and the frontend team to ship features and fix issues in day-to-day development
 
 ---
 
