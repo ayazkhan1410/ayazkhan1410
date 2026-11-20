@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=180&section=header&text=Hi,%20I'm%20Ayaz%20👋&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20Developer%20·%20Python%20%26%20Django&descSize=18&descAlignY=60" width="100%" alt="Hi, I'm Ayaz"/>
+<img src="assets/header.svg" width="100%" alt="Hi, I'm Ayaz"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Building+APIs+that+don't+break+at+3+AM;Streaming+real-time+data+with+Kafka;EDI+systems+for+10%2B+US+retailers;Celery+jobs%2C+clean+queries%2C+simple+code" alt="Typing intro"/>
+  <img src="assets/typing.svg" alt="Typing intro"/>
 </p>
 
 <p align="center"><b>Bahawalpur, Pakistan</b></p>
@@ -69,4 +69,4 @@ Open to backend roles and interesting projects.
 
 **[Portfolio](https://ayazkhan1410.github.io/ayaz-portfolio/)** · [LinkedIn](https://www.linkedin.com/in/studywithayaz/) · [YouTube](https://www.youtube.com/@studywithayaz) · [programmingwithayaz@gmail.com](mailto:programmingwithayaz@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:0d1117&height=100&section=footer" width="100%" alt=""/>
+<img src="assets/footer.svg" width="100%" alt=""/>

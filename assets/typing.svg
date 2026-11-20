@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 50" width="640" height="50" role="img" aria-label="Building APIs that don&amp;#39;t break at 3 AM · Streaming real-time data to AI services · EDI systems for 10+ US retailers · Clean queries, simple code, reliable systems">
+  <g font-family="JetBrains Mono, Fira Code, Consolas, Menlo, monospace" font-size="20" font-weight="500" fill="#2f81f7" text-anchor="middle">
+  <clipPath id="l0"><rect x="92.0" y="0" height="60" width="0"><animate attributeName="width" values="0;456.0;456.0;0;0" keyTimes="0;0.1;0.25;0.25;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+  <text x="320" y="30" clip-path="url(#l0)">Building APIs that don&#39;t break at 3 AM</text>
+  <rect x="92.0" y="13" width="2" height="22" fill="#2f81f7" visibility="hidden"><animate attributeName="x" values="92.0;548.0;548.0;92.0;92.0" keyTimes="0;0.1;0.25;0.25;1" dur="12s" repeatCount="indefinite"/><animate attributeName="visibility" values="visible;hidden" keyTimes="0;0.25" calcMode="discrete" dur="12s" repeatCount="indefinite"/></rect>
+  <clipPath id="l1"><rect x="86.0" y="0" height="60" width="0"><animate attributeName="width" values="0;0;468.0;468.0;0;0" keyTimes="0;0.25;0.35;0.5;0.5;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+  <text x="320" y="30" clip-path="url(#l1)">Streaming real-time data to AI services</text>
+  <rect x="86.0" y="13" width="2" height="22" fill="#2f81f7" visibility="hidden"><animate attributeName="x" values="86.0;86.0;554.0;554.0;86.0;86.0" keyTimes="0;0.25;0.35;0.5;0.5;1" dur="12s" repeatCount="indefinite"/><animate attributeName="visibility" values="hidden;visible;hidden" keyTimes="0;0.25;0.5" calcMode="discrete" dur="12s" repeatCount="indefinite"/></rect>
+  <clipPath id="l2"><rect x="128.0" y="0" height="60" width="0"><animate attributeName="width" values="0;0;384.0;384.0;0;0" keyTimes="0;0.5;0.6;0.75;0.75;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+  <text x="320" y="30" clip-path="url(#l2)">EDI systems for 10+ US retailers</text>
+  <rect x="128.0" y="13" width="2" height="22" fill="#2f81f7" visibility="hidden"><animate attributeName="x" values="128.0;128.0;512.0;512.0;128.0;128.0" keyTimes="0;0.5;0.6;0.75;0.75;1" dur="12s" repeatCount="indefinite"/><animate attributeName="visibility" values="hidden;visible;hidden" keyTimes="0;0.5;0.75" calcMode="discrete" dur="12s" repeatCount="indefinite"/></rect>
+  <clipPath id="l3"><rect x="56.0" y="0" height="60" width="0"><animate attributeName="width" values="0;0;528.0;528.0" keyTimes="0;0.75;0.85;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+  <text x="320" y="30" clip-path="url(#l3)">Clean queries, simple code, reliable systems</text>
+  <rect x="56.0" y="13" width="2" height="22" fill="#2f81f7" visibility="hidden"><animate attributeName="x" values="56.0;56.0;584.0;584.0" keyTimes="0;0.75;0.85;1" dur="12s" repeatCount="indefinite"/><animate attributeName="visibility" values="hidden;visible" keyTimes="0;0.75" calcMode="discrete" dur="12s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

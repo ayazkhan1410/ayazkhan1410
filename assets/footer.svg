@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="1200" height="100" aria-hidden="true">
+  <defs>
+    <linearGradient id="g" gradientTransform="rotate(180 .5 .5)" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="0.55" stop-color="#1f4f99"/><stop offset="1" stop-color="#2f81f7"/>
+    </linearGradient>
+    <clipPath id="c"><path d="M0 40 Q150.0 26 300 40 Q450.0 54 600 40 Q750.0 26 900 40 Q1050.0 54 1200 40 Q1350.0 26 1500 40 Q1650.0 54 1800 40 Q1950.0 26 2100 40 Q2250.0 54 2400 40 V200 H0 Z"><animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="12s" repeatCount="indefinite"/></path></clipPath>
+  </defs>
+  <rect width="1200" height="100" fill="url(#g)" clip-path="url(#c)"/>
+</svg>
