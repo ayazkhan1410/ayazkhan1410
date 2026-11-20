@@ -35,7 +35,7 @@ I care about code that's simple, fast, and easy for the next person to pick up.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**RedArt EDI Backend**](https://github.com/ayazkhan1410/RedArt-EDI-Backend) | Freelance build for a US medical transport (NEMT) billing company. Generates HIPAA X12 837P claim files, batches them and sends them over SFTP, then reads 999/277/835 files back to update claim status. | Django, DRF, PostgreSQL, Celery, Redis, Docker |
+| **RedArt EDI Platform** · [backend](https://github.com/ayazkhan1410/RedArt-EDI-Backend) · [frontend](https://github.com/ayazkhan1410/RedArt-EDI-Frontend) | Freelance build for a US medical transport (NEMT) billing company. Generates HIPAA X12 837P claim files, batches them and sends them over SFTP, then reads 999/277/835 files back to update claim status. Billing staff track it all in a React dashboard. | Django, DRF, PostgreSQL, Celery, Redis, Docker, React, TypeScript |
 | [**LESA Academy Portal**](https://github.com/ayazkhan1410/lesa-academy-portal) | Full-stack management system for an academy: students, fees, attendance, salaries and expenses, with a dashboard, PDF reports and SMS alerts to parents. | Django, DRF, Celery, Redis, React |
 | [**Agentic AI with Django**](https://github.com/ayazkhan1410/Agentic-AI-with-Django) | REST API where a supervisor agent routes questions to a document agent or a TMDB movie-search agent, with conversation memory. | DRF, LangChain, LangGraph, OpenAI |
 | [**SearchLab**](https://github.com/ayazkhan1410/elasticsearch-drf) | Product search API on Elasticsearch, with a CSV loader, an index rebuild command and a small UI for testing results. | DRF, Elasticsearch, PostgreSQL, Redis, Docker |
@@ -67,6 +67,6 @@ I teach Python and Django on my YouTube channel, **[Study with Ayaz](https://www
 
 Open to backend roles and interesting projects.
 
-[LinkedIn](https://www.linkedin.com/in/studywithayaz/) · [YouTube](https://www.youtube.com/@studywithayaz) · [programmingwithayaz@gmail.com](mailto:programmingwithayaz@gmail.com)
+**[Portfolio](https://ayazkhan1410.github.io/ayaz-portfolio/)** · [LinkedIn](https://www.linkedin.com/in/studywithayaz/) · [YouTube](https://www.youtube.com/@studywithayaz) · [programmingwithayaz@gmail.com](mailto:programmingwithayaz@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:0d1117&height=100&section=footer" width="100%" alt=""/>
