@@ -1,73 +1,62 @@
-# 👋 Hi, I'm Ayaz Khan — Backend Developer
+# Hi, I'm Ayaz 👋
 
-Backend-focused software engineer with **2+ years of experience** building production-grade systems in Python and Django. I specialize in scalable APIs, real-time data pipelines, microservices, and EDI integrations — shipping code that works reliably at scale.
+**Backend developer · Python & Django · Bahawalpur, Pakistan**
 
----
+I build the parts of a product people don't see: APIs, background jobs, data pipelines, and integrations that have to keep working at 3 AM. For 2+ years I've been shipping production backends in Python, Django and DRF. That started with a travel booking platform, moved to EDI systems for 10+ large US retailers, and today it's real-time pipelines that feed AI services.
 
-## 🛠️ Tech Stack
-
-**Languages:** Python, Java, SQL, HTML5, CSS3
-
-**Frameworks & Libraries:** Django, Django REST Framework, Flask, Celery, Jinja
-
-**Databases:** PostgreSQL, MySQL, Redis
-
-**Cloud & DevOps:** AWS (SQS, EC2, S3), Docker, GitHub Actions (CI/CD)
-
-**Messaging & Streaming:** Apache Kafka, AWS SQS, Celery Beat
-
-**Specialized:** RESTful APIs, EDI (ANSI X12), JWT Authentication, Microservices Architecture, SFTP/AS2 Integration
-
-**Tools:** Postman, Swagger/OpenAPI, PyCharm, VS Code, Jira, Linux (Bash)
+I care about code that's simple, fast, and easy for the next person to pick up.
 
 ---
 
-## 💼 Work Experience
+### What I'm doing now
 
-### 🔹 Backend Developer — BetaCodes *(March 2026 – Present)*
-- Building backend systems using **Kafka** to stream real-time data and integrate AI services
-- Processing and storing results from AI pipelines into databases at scale
-- Contributing to microservices architecture with **Celery + Beat** for reliable background job scheduling
+**Backend Developer @ BetaCodes** · Mar 2026 – Present
+- Streaming real-time data to AI services over **Kafka**, then processing and storing the results
+- Running 5–10 background and scheduled jobs with **Celery + Celery Beat** across microservices
 
-### 🔹 Backend Developer — Devticks *(October 2024 – February 2026)*
-- Built and maintained **Python/Django-based EDI systems** handling orders and documents for major retail partners: Walmart, Home Depot, Target, and others
-- Automated end-to-end order flows by parsing **ANSI X12 files** into Django models and generating 850/856/810 responses (acknowledgments, shipment notices, invoices)
-- Improved performance and reliability via query optimization, **AWS SQS** background processing, and secure SFTP/AS2 integration
+### Where I've been
 
-### 🔹 Junior Python Developer — Ticketistan *(July 2024 – October 2024)*
-- Developed RESTful APIs for core features: **hotels, flights, and user authentication**
-- Collaborated with senior developers and frontend teams for smooth feature delivery
-- Strengthened practical Python and Django development skills in a production environment
+**Backend Developer @ Devticks** · Oct 2024 – Feb 2026
+- Built Django EDI systems for **10+ retail partners** (Walmart, Home Depot, Target), handling ~5,000–10,000 orders
+- Parsed **ANSI X12** files into Django models and generated acknowledgments, shipment notices and invoices automatically
+- Removed N+1 queries, refactored queue processing and added indexing/caching, which **cut API calls by ~30%**
+- Ran background processing on **AWS SQS** and kept partner **SFTP/AS2** connections running
 
----
-
-## 🚀 Projects
-
-### 🛒 E-Tech Shop *(Final Year Project)*
-Django-based e-commerce platform with secure authentication, product management, and real-time order tracking. Built with a team, including QA and responsive design across devices.
-
-### 🎓 Smart Learning Management System
-Full-stack platform for managing students, fees, attendance, and staff — featuring real-time analytics, automated parent notifications, and financial tracking.
-
-### 📧 Django Communication & Tracking Engine
-Backend suite for bulk email sending with **custom open-rate and link-click tracking**. Includes CSV import/export pipelines for efficient data management workflows.
+**Junior Python Developer @ Ticketistan** · Jul 2024 – Oct 2024
+- Built REST APIs for hotel booking, flight search and user authentication
 
 ---
 
-## 📜 Certifications
+### Things I've built
 
-- **Learn to Code in Python 3: Beginner to Advanced** — Udemy
-- **Python for OOP: The A-to-Z OOP Python Programming Course** — Udemy
-
----
-
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-studywithayaz-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/studywithayaz/)
-[![GitHub](https://img.shields.io/badge/GitHub-ayazkhan1410-181717?style=flat&logo=github)](https://github.com/ayazkhan1410)
-[![YouTube](https://img.shields.io/badge/YouTube-Study%20with%20Ayaz-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@studywithayaz)
-[![Email](https://img.shields.io/badge/Email-programmingwithayaz@gmail.com-EA4335?style=flat&logo=gmail)](mailto:programmingwithayaz@gmail.com)
+| Project | What it does | Stack |
+|---|---|---|
+| [**RedArt EDI Backend**](https://github.com/ayazkhan1410/RedArt-EDI-Backend) | Freelance build for a US medical transport (NEMT) billing company. Generates HIPAA X12 837P claim files, batches them and sends them over SFTP, then reads 999/277/835 files back to update claim status. | Django, DRF, PostgreSQL, Celery, Redis, Docker |
+| [**LESA Academy Portal**](https://github.com/ayazkhan1410/lesa-academy-portal) | Full-stack management system for an academy: students, fees, attendance, salaries and expenses, with a dashboard, PDF reports and SMS alerts to parents. | Django, DRF, Celery, Redis, React |
+| [**Agentic AI with Django**](https://github.com/ayazkhan1410/Agentic-AI-with-Django) | REST API where a supervisor agent routes questions to a document agent or a TMDB movie-search agent, with conversation memory. | DRF, LangChain, LangGraph, OpenAI |
+| [**SearchLab**](https://github.com/ayazkhan1410/elasticsearch-drf) | Product search API on Elasticsearch, with a CSV loader, an index rebuild command and a small UI for testing results. | DRF, Elasticsearch, PostgreSQL, Redis, Docker |
 
 ---
 
-*Open to backend roles and interesting collaborations. Feel free to reach out!*
+### Toolbox
+
+**Core:** Python · Django · Django REST Framework · Flask · Celery · SQL\
+**Data:** PostgreSQL · MySQL · Redis · Elasticsearch · Kafka\
+**Cloud & DevOps:** AWS (EC2, S3, SQS) · Docker · Docker Compose · GitHub Actions\
+**Also:** EDI (ANSI X12 / HIPAA) · JWT auth · SFTP/AS2 · LangChain · LangGraph · Swagger/OpenAPI
+
+---
+
+### Outside of work
+
+I teach Python and Django on my YouTube channel, **[Study with Ayaz](https://www.youtube.com/@studywithayaz)**. Explaining things clearly turns out to be the best way to really understand them.
+
+🎓 BS Information Technology, The Islamia University of Bahawalpur (2020 – 2024)
+
+---
+
+### Let's talk
+
+Open to backend roles and interesting projects.
+
+[LinkedIn](https://www.linkedin.com/in/studywithayaz/) · [YouTube](https://www.youtube.com/@studywithayaz) · [programmingwithayaz@gmail.com](mailto:programmingwithayaz@gmail.com)
