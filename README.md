@@ -40,7 +40,7 @@ I care about code that's simple, fast, and easy for the next person to pick up.
 | **RedArt EDI Platform** · [backend](https://github.com/ayazkhan1410/RedArt-EDI-Backend) · [frontend](https://github.com/ayazkhan1410/RedArt-EDI-Frontend) | Freelance build for a US medical transport (NEMT) billing company. Generates HIPAA X12 837P claim files, batches them and sends them over SFTP, then reads 999/277/835 files back to update claim status. Billing staff track it all in a React dashboard. | Django, DRF, PostgreSQL, Celery, Redis, Docker, React, TypeScript |
 | [**LESA Academy Portal**](https://github.com/ayazkhan1410/lesa-academy-portal) | Full-stack management system for an academy: students, fees, attendance, salaries and expenses, with a dashboard, PDF reports and SMS alerts to parents. | Django, DRF, Celery, Redis, React |
 | [**Agentic AI with Django**](https://github.com/ayazkhan1410/Agentic-AI-with-Django) | REST API where a supervisor agent routes questions to a document agent or a TMDB movie-search agent, with conversation memory. | DRF, LangChain, LangGraph, OpenAI |
-| [**SearchLab**](https://github.com/ayazkhan1410/elasticsearch-drf) | Product search API on Elasticsearch, with a CSV loader, an index rebuild command and a small UI for testing results. | DRF, Elasticsearch, PostgreSQL, Redis, Docker |
+| [**Tijori POS**](https://github.com/ayazkhan1410/retail-pos-system) | Barcode point-of-sale system for Pakistani retail: sales, shifts, returns, inventory, purchases and khata ledgers, with role-based staff permissions, reports, backups and an English/Urdu React till UI. | Django, DRF, PostgreSQL, React, TypeScript, Docker |
 
 ---
 
