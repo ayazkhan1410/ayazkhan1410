@@ -6,6 +6,10 @@
 
 <p align="center"><b>Bahawalpur, Pakistan</b></p>
 
+<p align="center">
+  <img src="assets/card.svg" width="100%" alt="Ayaz Khan: Backend Developer at BetaCodes. Python, Django, Celery, Kafka. Live GitHub stats."/>
+</p>
+
 I build the parts of a product people don't see: APIs, background jobs, data pipelines, and integrations that have to keep working at 3 AM. For 2+ years I've been shipping production backends in Python, Django and DRF. That started with a travel booking platform, moved to EDI systems for 10+ large US retailers, and today it's real-time pipelines that feed AI services.
 
 I care about code that's simple, fast, and easy for the next person to pick up.

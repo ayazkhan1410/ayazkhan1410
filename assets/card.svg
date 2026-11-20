@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="434" viewBox="0 0 900 434" role="img" aria-label="Ayaz Khan profile card">
+<style>text{font:14px 'DejaVu Sans Mono',Consolas,Menlo,monospace;white-space:pre}.k{fill:#ffa657}.v{fill:#79c0ff}.d{fill:#8b949e}.t{fill:#7ee787;font-weight:bold}.b{fill:#2f81f7}.kw{fill:#ff7b72}.c{fill:#c9d1d9}</style>
+<rect width="900" height="100%" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="28" y="44" class="b">    _ __   __    _    _____</text>
+<text x="28" y="64" class="b">   / \\ \ / /   / \  |__  /</text>
+<text x="28" y="84" class="b">  / _ \\ V /   / _ \   / / </text>
+<text x="28" y="104" class="b"> / ___ \| |   / ___ \ / /_ </text>
+<text x="28" y="124" class="b">/_/   \_\_|  /_/   \_\/____|</text>
+<text x="28" y="184" class="c"><tspan class="kw">class</tspan> Ayaz:</text>
+<text x="28" y="204" class="c">    role  = "Backend Developer"</text>
+<text x="28" y="224" class="c">    stack = ["Django", "Kafka",</text>
+<text x="28" y="244" class="c">             "Celery", "Postgres"]</text>
+<text x="28" y="264" class="c">    loves = "simple, fast code"</text>
+<text x="380" y="44"><tspan class="t">ayaz@khan</tspan> <tspan class="d">------------------------------------------</tspan></text>
+<text x="380" y="64"><tspan class="d">. </tspan><tspan class="k">Role</tspan><tspan class="d">: ............... </tspan><tspan class="v">Backend Developer @ BetaCodes</tspan></text>
+<text x="380" y="84"><tspan class="d">. </tspan><tspan class="k">Location</tspan><tspan class="d">: .................... </tspan><tspan class="v">Bahawalpur, Pakistan</tspan></text>
+<text x="380" y="104"><tspan class="d">. </tspan><tspan class="k">Experience</tspan><tspan class="d">: .............................. </tspan><tspan class="v">2+ years</tspan></text>
+<text x="380" y="124"></text>
+<text x="380" y="144"><tspan class="d">. </tspan><tspan class="k">Languages</tspan><tspan class="d">: ...................... </tspan><tspan class="v">Python, SQL, Java</tspan></text>
+<text x="380" y="164"><tspan class="d">. </tspan><tspan class="k">Frameworks</tspan><tspan class="d">: ............ </tspan><tspan class="v">Django, DRF, Celery, Flask</tspan></text>
+<text x="380" y="184"><tspan class="d">. </tspan><tspan class="k">Data</tspan><tspan class="d">: .................... </tspan><tspan class="v">PostgreSQL, MySQL, Redis</tspan></text>
+<text x="380" y="204"><tspan class="d">. </tspan><tspan class="k">Infra</tspan><tspan class="d">: ......... </tspan><tspan class="v">Kafka, AWS, Docker, GitHub Actions</tspan></text>
+<text x="380" y="224"><tspan class="d">. </tspan><tspan class="k">Focus</tspan><tspan class="d">: ..... </tspan><tspan class="v">APIs, jobs, pipelines, AI integrations</tspan></text>
+<text x="380" y="244"></text>
+<text x="380" y="264"><tspan class="d">- Contact -------------------------------------------</tspan></text>
+<text x="380" y="284"><tspan class="d">. </tspan><tspan class="k">LinkedIn</tspan><tspan class="d">: ........................... </tspan><tspan class="v">studywithayaz</tspan></text>
+<text x="380" y="304"><tspan class="d">. </tspan><tspan class="k">YouTube</tspan><tspan class="d">: .......................... </tspan><tspan class="v">Study with Ayaz</tspan></text>
+<text x="380" y="324"></text>
+<text x="380" y="344"><tspan class="d">- GitHub Stats --------------------------------------</tspan></text>
+<text x="380" y="364"><tspan class="d">. </tspan><tspan class="k">Public repos</tspan><tspan class="d">: .................................. </tspan><tspan class="v">52</tspan></text>
+<text x="380" y="384"><tspan class="d">. </tspan><tspan class="k">Commits (last year)</tspan><tspan class="d">: .......................... </tspan><tspan class="v">418</tspan></text>
+<text x="380" y="404"><tspan class="d">. </tspan><tspan class="k">Top languages</tspan><tspan class="d">: ...... </tspan><tspan class="v">Python, HTML, CSS, JavaScript</tspan></text>
+</svg>
