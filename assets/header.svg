@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Hi, I'm Ayaz. Backend Developer, Python and Django">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="0.55" stop-color="#1f4f99"/><stop offset="1" stop-color="#2f81f7"/>
+    </linearGradient>
+    <clipPath id="c"><path d="M0 0 H2400 V150 Q2250.0 166 2100 150 Q1950.0 134 1800 150 Q1650.0 166 1500 150 Q1350.0 134 1200 150 Q1050.0 166 900 150 Q750.0 134 600 150 Q450.0 166 300 150 Q150.0 134 0 150 Z"><animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="12s" repeatCount="indefinite"/></path></clipPath>
+  </defs>
+  <rect width="1200" height="200" fill="url(#g)" clip-path="url(#c)"/>
+  <path d="M0 0 H2400 V132 Q2250.0 144 2100 132 Q1950.0 120 1800 132 Q1650.0 144 1500 132 Q1350.0 120 1200 132 Q1050.0 144 900 132 Q750.0 120 600 132 Q450.0 144 300 132 Q150.0 120 0 132 Z" fill="#ffffff" fill-opacity="0.06"><animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="18s" repeatCount="indefinite"/></path>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#ffffff" text-anchor="middle" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+    <text x="600" y="82" font-size="50" font-weight="700">Hi, I'm Ayaz 👋</text>
+    <text x="600" y="120" font-size="21" fill-opacity="0.85">Backend Developer · Python &amp; Django</text>
+  </g>
+</svg>
